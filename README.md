@@ -1,2 +1,3 @@
 # memoryGame
- Recriação do famoso jogo da memoria utilizando personagens do jogo Red Dead Redemptin 2
+ Recriação do famoso jogo da memoria, com os personagens do jogo Red Dead Redemption
+
