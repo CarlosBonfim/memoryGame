@@ -56,30 +56,18 @@ body {
     .memory-game {
         height: 550px;
         width: 550px;
-        margin: auto;
-        display: flex;
-        flex-wrap: wrap;
-        perspective: 1000px;
     }
 }
 @media only screen and (max-width: 570px){
     .memory-game{
         height: 450px;
         width: 450px;
-        margin: auto;
-        display: flex;
-        flex-wrap: wrap;
-        perspective: 1000px;
     }
 }
 @media only screen and (max-width: 470px){
     .memory-game{
         height: 350px;
         width: 350px;
-        margin: auto;
-        display: flex;
-        flex-wrap: wrap;
-        perspective: 1000px;
     }
 }
 @media only screen and (max-width: 350px){
